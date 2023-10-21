@@ -187,7 +187,7 @@ Our staking platform provides varied durations and benefits, catering to both sh
 - **32-Day Staking:** An extended commitment yields a robust 35% APY, supported by a 1,500,000 $SPTOK allocation.  
   _Contract address:_ `0x4f7C41F02F751738E7224c2C83818536c38e5945`
 
-- **90-Day Staking:** For our visionaries, a whopping 119% APY is on the table with a generous 3,000,000 $SPTOK allocation.  
+- **90-Day Staking:** For our visionaries, a whopping 119% APY is on the table with a generous 6,000,000 $SPTOK allocation.  
   _Contract address:_ `0x18f2cbe28bfc95b2109b77a0bc409737d92caa32`
 
 ### Transparency and Accessibility
@@ -289,7 +289,7 @@ In our commitment to ensuring decentralization, limiting whale prevalence, and f
 
 ### Public Sale
 
-- **Amount:** 46,500,100 $SPTOK
+- **Amount:** 43,500,100 $SPTOK
 - **Platform:** Sales conducted on UniSwap, utilizing the Polygon Network.
 - **Trading Pair:** $SPTOK/$USDT
 - **Access Link:** [UniSwap $SPTOK](https://app.uniswap.org/tokens/polygon/0xa7d34edc08df68f7310652e6d5f4318da1a2b2bd)
@@ -315,7 +315,8 @@ In our commitment to ensuring decentralization, limiting whale prevalence, and f
 
 ### Staking Pools
 
-- **Security & Rewards Allocation:** 7,000,000 $SPTOK
+- **Security & Rewards Allocation:** 10,000,000 $SPTOK
+- ** **Staking DApp Acess**: [NEMOEcosystem Staking DApp](https://staking.nemoecosystem.tech)
 
 ### Airdrop & Prizes
 
