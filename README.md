@@ -293,6 +293,20 @@ In our commitment to ensuring decentralization, limiting whale prevalence, and f
 - **Platform:** Sales conducted on UniSwap, utilizing the Polygon Network.
 - **Trading Pair:** $SPTOK/$USDT
 - **Access Link:** [UniSwap $SPTOK](https://app.uniswap.org/tokens/polygon/0xa7d34edc08df68f7310652e6d5f4318da1a2b2bd)
+**Address:** `0x342fFF443023267F29E4376b79768C8c743c3F3B`
+
+**Details:** 
+- Amount $SPTOK Locked: `21,000,000 $SPTOK` for `11 years`
+- Monthly Release: `148,800 $SPTOK/month`
+- Until: `11th of October 2034`
+- Destination: Liquidity (Owner Address: `0x342fFF443023267F29E4376b79768C8c743c3F3B`)
+- Secondary Address: `0x37b4d25210b406CE4f60200c5231a57f4cC8c906`
+- Lock ID: `9351`
+
+**Note:** 
+- **Unlocked Amount in Liquidity Pool:** `22,390,000 $SPTOK`
+  - **Purpose: Provide liquidity for other CEX & DEX incoming listings**
+  - **Verification**: [Polygonscan Transaction](https://polygonscan.com/tx/0x58230efb93bb9cf671bdf50cfe91a018044e05bf8ef04889b3876809d5831e77)
 
 ### Token Burn
 
