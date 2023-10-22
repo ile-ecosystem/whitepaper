@@ -271,7 +271,7 @@ For a deeper dive and active participation, you're invited to visit our [Aragon 
 
 # $SPTOK Tokenomics and Distribution Strategy
 
-In our commitment to ensuring decentralization, limiting whale prevalence, and fostering a fair token distribution, we present the comprehensive structure of the $SPTOK token supply and allocation strategy.
+In our commitment to ensuring decentralization, limiting whale prevalence, and fostering a fair token distribution, we present the comprehensive structure of the $SPTOK token supply and allocation strategy. All our lock are verifiable through **Polygonscan** and have been processed via the **UNCX Network**.
 
 ## Token Contracts
 
@@ -297,7 +297,15 @@ In our commitment to ensuring decentralization, limiting whale prevalence, and f
 ### Token Burn
 
 - **Total Tokens for Burn:** 21,000,000 $SPTOK
-  - Strategy: Structured burn process executing a reduction of 420,000 tokens monthly until October 2027. 
+- Strategy: Structured burn process executing a reduction of 420,000 tokens monthly until October 2027.
+- **Address:** `0x3D0b3bd74F4fAabBB931d22e8a504F74bFDe22Dc`
+  
+**Details:** 
+- Amount $SPTOK Locked: `20,160,000 $SPTOK`
+- Unlocking: `420,000 tokens/month`
+- Until: `01st of October 2017`
+- Lock ID: `9375`
+
 
 ### DAO Allocation
 
@@ -308,10 +316,26 @@ In our commitment to ensuring decentralization, limiting whale prevalence, and f
 ### Marketing & Partnerships
 
 - **Set Aside for Collaborations:** 5,000,000 $SPTOK
+- **Address:** `0x1C47A6b697E18708d802485C493DB83C2A670DA8`
+
+**Details:** 
+- Amount $SPTOK Locked: `5,000,000 $SPTOK`
+- Monthly Release: `150,000 $SPTOK/month`
+- Until: `22nd of July 2026`
+- Destination: Marketing & Partnership Wallet (`0x1C47A6b697E18708d802485C493DB83C2A670DA8`)
+- Lock ID: `9377`
 
 ### Development & Research
 
 - **Allocated to R&D:** 5,000,000 $SPTOK
+- **Address:** `0x9F0536Ce9C8Aaed53C3A8A75FE5e4C3Df95F74dE`
+  
+**Details:**  
+- Amount $SPTOK Locked: `5,000,000 $SPTOK`
+- Monthly Release: `150,000 $SPTOK/month`
+- Until: `22nd of July 2026`
+- Destination: R&D Wallet (`0x9F0536Ce9C8Aaed53C3A8A75FE5e4C3Df95F74dE`)
+- Lock ID: `9376p`
 
 ### Staking Pools
 
@@ -321,6 +345,15 @@ In our commitment to ensuring decentralization, limiting whale prevalence, and f
 ### Airdrop & Prizes
 
 - **Community Incentives:** 5,000,000 $SPTOK
+- **Address:** `0x37b4d25210b406CE4f60200c5231a57f4cC8c906`
+**Note:** Already distributed before lock `100,000 $SPTOK`
+
+**Details:** 
+- Amount $SPTOK Locked: `4,900,000 $SPTOK`
+- Monthly Release: `150,000 $SPTOK/month`
+- Until: `22nd of July 2026`
+- Destination: Marketing & Partnership Wallet (`0x37b4d25210b406CE4f60200c5231a57f4cC8c906`)
+- Lock ID: `9378`
 
 By unveiling our tokenomics, we emphasize transparency and trust in our ecosystem development strategy. This approach ensures stability, fair distribution, and communal growth, aligning with our core vision of decentralization and innovation.
 
