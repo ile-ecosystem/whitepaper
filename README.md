@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The South Pacific Metaverse Ecosystem is a pioneering venture that merges the rich cultural heritage of the South Pacific with advanced blockchain and metaverse technologies. Our mission is to create a digital space where South Pacific art and culture are preserved and thrive globally. This document outlines our vision, strategy, technological framework, and tokenomics.
+ILEWorld.io is a pioneering venture that merges the rich cultural heritage of the South Pacific with advanced blockchain and metaverse technologies. Our mission is to create a digital space where South Pacific art and culture are preserved and thrive globally. This document outlines our vision, strategy, technological framework, and tokenomics.
 
 ## Table of Contents
 
