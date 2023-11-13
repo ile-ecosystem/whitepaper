@@ -1,4 +1,4 @@
-# South Pacific Metaverse Ecosystem Comprehensive Light Paper
+# ILEWorld.io Comprehensive Light Paper
 
 ## Executive Summary
 
