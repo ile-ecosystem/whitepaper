@@ -55,14 +55,14 @@ Our ecosystem leverages technologies from OVERTheReality.ai, Decentraland.org, B
 <a name="8-tokenomics-of-ile"></a>
 ## 8. Tokenomics of $ILE
 
-The $ILE tokenomics are designed to support a robust, secure, and thriving ecosystem with a total supply allocated as 5% for marketing (locked with vesting) and 95% for the ecosystem. 
+The $ILE tokenomics are designed to support a robust, secure, and thriving ecosystem with a total supply allocated at 100% for the supply with no team tokens. 
 
 The token features :
 
 - 100 000 000 Supply MAX Supply. 
 - A 0% tax policy
 - Contract renouncement at launch
-- Liquidity Pool locked for 1000 years.
+- Liquidity Pool locked for 100 years.
 
 <a name="9-roadmap-to-2025"></a>
 ## 9. Roadmap to 2025
